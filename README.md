@@ -58,8 +58,8 @@ The **Sales and Customers Dashboard** is an interactive Tableau dashboard design
    - Review customer distribution through the histogram and identify top customers by profit in the tabular format.
 
 ## Screenshots
-![Sales Dashboard]("F:\Data_Analysis_Road\Data_Visualisation\Sales-Customer-Dashboard\DashboardSSales.png")
-![Customers Dashboard]("F:\Data_Analysis_Road\Data_Visualisation\Sales-Customer-Dashboard\customersdashboardss.png")
+![Sales Dashboard](F:\Data_Analysis_Road\Data_Visualisation\Sales-Customer-Dashboard\DashboardSSales.png)
+![Customers Dashboard](F:\Data_Analysis_Road\Data_Visualisation\Sales-Customer-Dashboard\customersdashboardss.png)
 
 ## URL
 https://shorturl.at/0vDWS
