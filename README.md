@@ -38,6 +38,12 @@ The **Sales and Customers Dashboard** is an interactive Tableau dashboard design
 - Tableau Desktop or Tableau Public installed on your computer.
 - Access to the data source used for the dashboard (if applicable).
 
+## Entity-Relationship Diagram (ERD)
+The ERD below outlines the relationships between the key entities in the sales performance dataset:
+
+
+![ERD](https://github.com/user-attachments/assets/a182a043-d294-4cb4-a123-066ccaa01630)
+
 ### How to Use the Dashboard
 1. **Open the Dashboard**: Download the Tableau workbook file (`Sales_and_Customers_Dashboard.twb`) from this repository and open it in Tableau. OR 
   Simpliy click the URL below for quick access view of dashboard in your browser. 
