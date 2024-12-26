@@ -39,8 +39,8 @@ The **Sales and Customers Dashboard** is an interactive Tableau dashboard design
 - Access to the data source used for the dashboard (if applicable).
 
 ### How to Use the Dashboard
-1. **Open the Dashboard**: Download the Tableau workbook file (`Sales_and_Customers_Dashboard.twbx`) from this repository and open it in Tableau.
-  
+1. **Open the Dashboard**: Download the Tableau workbook file (`Sales_and_Customers_Dashboard.twb`) from this repository and open it in Tableau. OR 
+  Simpliy click the URL below for quick access view of dashboard in your browser. 
 2. **Explore Metrics**: View the key metrics displayed in the bans at the top of the dashboard.
 
 3. **Interact with Visualizations**:
