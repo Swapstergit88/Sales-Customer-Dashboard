@@ -10,7 +10,8 @@ The **Sales and Customers Dashboard** is an interactive Tableau dashboard design
 - **Difficulty in Historical Comparison**: Evaluating current performance against historical data is vital for identifying growth opportunities. The dashboard facilitates this comparison through dynamic visualizations.
 
 ## ERD Diagram
-![sales custERD](https://github.com/user-attachments/assets/30253a61-55c1-41a8-abc9-9bc2922b5076)
+![sales custERD](https://github.com/user-attachments/assets/2d423f09-7c27-476d-9456-98b6239e0676)
+
 
 
 
