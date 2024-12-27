@@ -9,6 +9,10 @@ The **Sales and Customers Dashboard** is an interactive Tableau dashboard design
 - **Inability to Track Customer Behavior**: Understanding customer preferences is essential for tailoring marketing strategies. This dashboard offers insights into customer distribution and purchasing patterns.
 - **Difficulty in Historical Comparison**: Evaluating current performance against historical data is vital for identifying growth opportunities. The dashboard facilitates this comparison through dynamic visualizations.
 
+## ERD Diagram
+![sales custERD](https://github.com/user-attachments/assets/5be82985-4e8e-4401-be30-24a25777bb29)
+
+
 ## Functionality
 The dashboard includes various functionalities that enhance user experience and analytical capabilities:
 - **Interactive Visualizations**: Users can engage with various charts and graphs to explore data from multiple angles, fostering deeper insights into sales trends and customer behavior.
