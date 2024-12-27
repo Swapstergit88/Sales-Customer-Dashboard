@@ -61,7 +61,7 @@ The dashboard includes various functionalities that enhance user experience and 
 - Access to the data source used for the dashboard (if applicable).
 
 ### How to Use the Dashboard
-1. **Open the Dashboard**: Download the Tableau workbook file (`Sales_and_Customers_Dashboard.twbx`) from this repository or access it directly via [this link](https://shorturl.at/0vDWS).
+1. **Open the Dashboard**: Download the Tableau workbook file (`Sales_and_Customers_Dashboard.twb`) from this repository or access it directly via [this link](https://shorturl.at/0vDWS).
 2. **Explore Metrics**: View key metrics displayed in the bans at the top of the dashboard.
 3. **Interact with Visualizations**:
    - Hover over charts to see tooltips with detailed information.
